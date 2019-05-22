@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://voongahnoe.babybounce.co.uk/sitemap.xml
